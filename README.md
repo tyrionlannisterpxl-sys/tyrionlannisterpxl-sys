@@ -29,9 +29,10 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ## 💻 Tech Stack  
 
-| Frontend | Backend | Database | Tools | Others |
-|-----------|----------|-----------|--------|---------|
-| React, HTML, CSS, JS, Tailwind | Node.js, Express | MongoDB | Git, GitHub, VS Code | Wix Editor, REST API |
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode,postman,wix&theme=dark" />
+</p>
+
 
 ---
 
