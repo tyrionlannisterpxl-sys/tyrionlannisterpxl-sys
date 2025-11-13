@@ -81,6 +81,12 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ---
 
+## 🐔 Random Dev Quote
+
+[![Custom Dark Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=1d1d1d&quoteColor=ffffff&authorColor=5DADE2)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 ## ☕ Support Me  
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_LINK)
