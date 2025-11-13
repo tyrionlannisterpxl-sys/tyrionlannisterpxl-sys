@@ -13,7 +13,7 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ## 🛠️ Skills  
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,nextjs&theme=dark" />
 </p>
 
