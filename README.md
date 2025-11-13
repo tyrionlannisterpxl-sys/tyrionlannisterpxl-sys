@@ -28,7 +28,7 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ## 🌐 Socials  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tyrion-lannister)
+[![LinkedIn](www.linkedin.com/in/tyrion-lannister)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_LINK)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_LINK)
 
