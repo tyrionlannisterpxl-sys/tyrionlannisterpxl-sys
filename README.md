@@ -75,9 +75,9 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ---
 
-## 💬 Random Dev Quote  
-> “Dealing with failure is easy: Work hard to improve.”  
-> — *Alan Perlis*
+## 🐔 Random Dev Quote
+
+![Random Developer Quote](https://random-quote-service.com/generate/knuth-quote-id?theme=dark&style=custom)
 
 ---
 
