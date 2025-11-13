@@ -44,8 +44,8 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ## 📊 GitHub Stats  
 
-![Tyrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrion-pixelora&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrion-pixelora&layout=compact&theme=radical)
+![Tyrion's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrionlannisterpxl-sys&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrionlannisterpxl-sys&layout=compact&theme=radical)
 
 
 ---
