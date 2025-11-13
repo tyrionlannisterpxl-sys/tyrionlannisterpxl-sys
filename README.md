@@ -75,13 +75,7 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 
 ---
 
-## 🐔 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-## 🐔 Random Dev Quote
+## ✍️ Random Dev Quote
 
 [![Custom Dark Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=1d1d1d&quoteColor=ffffff&authorColor=5DADE2)](https://github.com/piyushsuthar/github-readme-quotes)
 
