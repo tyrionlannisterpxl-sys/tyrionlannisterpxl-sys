@@ -51,7 +51,7 @@ Currently working at **Pixelora (Betopia Group)** to build custom web solutions 
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tyrionlannisterpxl-sys&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15)
 
 ---
 
