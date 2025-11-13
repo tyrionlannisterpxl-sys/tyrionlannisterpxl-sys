@@ -1,5 +1,5 @@
 <!-- Banner or Header -->
-![Banner](https://i.imgur.com/your-banner.png)
+![Banner](https://i.ibb.co.com/Sw4vkbsW/wp1870516-lannister-wallpapers.jpg)
 
 ## 👋 About Me  
 Full-stack developer with experience in **MERN stack** and **Wix platform**.  
